@@ -1,0 +1,2 @@
+com.llfbandit.app_links
+string lStar

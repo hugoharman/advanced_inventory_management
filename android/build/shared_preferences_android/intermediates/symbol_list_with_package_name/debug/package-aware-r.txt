@@ -1,0 +1,2 @@
+io.flutter.plugins.sharedpreferences
+string lStar

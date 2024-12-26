@@ -1,0 +1,4 @@
+R_DEF: Internal format may change without notice
+local
+string lStar
+xml flutter_image_picker_file_paths

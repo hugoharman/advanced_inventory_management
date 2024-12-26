@@ -1,0 +1,3 @@
+io.flutter.plugins.imagepicker
+string lStar
+xml flutter_image_picker_file_paths

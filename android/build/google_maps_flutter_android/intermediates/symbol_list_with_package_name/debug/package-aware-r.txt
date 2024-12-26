@@ -1,0 +1,2 @@
+io.flutter.plugins.googlemaps
+string lStar

@@ -1,0 +1,2 @@
+io.flutter.plugins.pathprovider
+string lStar
